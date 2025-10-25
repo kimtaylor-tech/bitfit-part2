@@ -26,11 +26,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![App Walkthrough](https://i.imgur.com/3KQL4kw.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ezgif
+
+GIF created with [Imgur](https://imgur.com)  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
